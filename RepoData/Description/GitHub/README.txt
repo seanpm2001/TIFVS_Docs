@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🖼️[🇹.🇮.🇫]🆚️📖️ The official documentation source repository for TIFVS, a version control system for TIF/TIFF image files. Part of the ImageVS software
